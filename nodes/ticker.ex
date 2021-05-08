@@ -1,6 +1,7 @@
 defmodule Ticker do
   # 2 seconds
   @interval 2000
+
   @name :ticker
 
   def start do
